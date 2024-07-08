@@ -36,6 +36,21 @@ Happy Shopping!
 
 **Order Tracking**: Customers can track their orders in real-time to know exactly when their purchases will arrive.
 
+## Installation 
+
+To set up Shop Away locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Siddam08/E-commerce-website-.git
+
+2. To run this application, we are supposed to install nodejs modules such as mongoose, express and body-parser
+   ```bash
+   npm install {modulename}
+
+3. To start the server:
+   ```bash
+   npm start | node server.js
         
 
     
