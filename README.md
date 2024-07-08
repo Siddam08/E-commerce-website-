@@ -51,6 +51,14 @@ To set up Shop Away locally, follow these steps:
 3. To start the server:
    ```bash
    npm start | node server.js
+
+## Technologies Used
+I have used HTML, CSS  JavaScript frameworks to built this webpage.
+
+## Contact
+Siddam Sri Teja
+siddam.sriteja4@gmail.com
+
         
 
     
