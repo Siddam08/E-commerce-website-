@@ -7,9 +7,9 @@ Happy Shopping!
 
 
 
-# #Table of Contents
+## Table of Contents
 
-- [About Shop Away](#about-Shop Away)
+- [About Shop Away](#aboutshopaway)
 - [Features](#features)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
