@@ -23,6 +23,7 @@ Welocome to **Shop Away** is a user-friendly e-commerce website built using HTML
 These features collectively enhance the shopping experience, making it easier, safer, and more enjoyable for users.
 
 ## Installation
+
 To set up Shop Away locally, follow these steps:
 
 1. Clone the repository:
