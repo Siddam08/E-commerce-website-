@@ -27,11 +27,11 @@ These features collectively enhance the shopping experience, making it easier, s
 To set up Shop Away locally, follow these steps:
 
 1. Clone the repository:
-   '''bash
+    ```bash
    git clone https://github.com/Siddam08/E-commerce-website-.git
 
 2. To run this application, we are supposed to install nodejs modules such as mongoose, express and body-parser
-   '''bash
+    ```bash
    npm install {modulename}
 
 3. To start the server:
